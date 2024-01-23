@@ -1,6 +1,6 @@
 ### Hi, I'm Carter Figgins
 
-I like building small projects that make life easier and I also like haveing fun building discord bots. I am currently learning ruby on rails and building a personal budgeting tool.
+I like building small projects that make life easier and I also like haveing fun building discord bots. I am currently learning ruby on rails by building a personal budgeting tool.
 
 <!--
 **CarterFiggins/CarterFiggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
