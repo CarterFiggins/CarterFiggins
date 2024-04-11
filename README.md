@@ -1,6 +1,6 @@
 ### Hi, I'm Carter Figgins
 
-I enjoy creating small projects that make life easier. I also like programming discord bots in my spare time. I am currently learning ruby on rails through building a personal budgeting tool.
+I love creating things that make life easier, like a mountain bike weather report that tells me the best time to ride. I also enjoy programming Discord bots, with my favorite being a narrator for the game Werewolf. Right now, I'm learning Ruby on Rails by building a personal budgeting tool. It'll connect with banks through Plaid to track transactions and account info.
 
 <!--
 **CarterFiggins/CarterFiggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
