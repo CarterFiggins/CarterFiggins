@@ -1,6 +1,6 @@
 ### Hi, I'm Carter Figgins
 
-I like making useful things, like a [mountain bike weather report](https://github.com/CarterFiggins/MTB_Forecast) that tells me the best time to ride. I also enjoy programming Discord bots, with my favorite being a [narrator for the game Werewolf](https://github.com/CarterFiggins/werewolfBot). Right now, I am honing my skills in Ruby on Rails by building a personal budgeting tool. It will connect with banks through Plaid to track transactions and account info.
+I like making useful things, like a [mountain bike weather report](https://github.com/CarterFiggins/MTB_Forecast) that tells me the best time to ride. I also enjoy programming Discord bots, with my favorite being a [narrator for the game Werewolf](https://github.com/CarterFiggins/werewolfBot). Right now, I'm working on a TD game in JS using html canvas.
 
 <!--
 **CarterFiggins/CarterFiggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
